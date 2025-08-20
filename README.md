@@ -10,7 +10,12 @@ Brindar a los estudiantes y a cualquier persona interesada en el análisis de da
 **Contenido**
 
 **Módulo 3:** Fundamentos de Programación Python para el Análisis de Datos. 
+
 **Módulo 4:** Obtención y Preparación de Datos.  
+
 **Módulo 5:** Análisis Exploratorio de Datos. 
+
 **Módulo 6:** Inferencia Estadística.
+
 **Módulo 7:** Bases de Datos para Analistas.  
+
